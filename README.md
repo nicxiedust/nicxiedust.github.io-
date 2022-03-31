@@ -1,6 +1,5 @@
-Owned by Nicole Encila
-
 ## Welcome to GitHub Pages
+Owned by **Nicole Encila**
 
 You can use the [editor on GitHub](https://github.com/nicxiedust/nicxiedust.github.io-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
