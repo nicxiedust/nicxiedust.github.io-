@@ -1,28 +1,24 @@
-## Welcome to GitHub Pages
+## Korean Drama's Recommendation
 Owned by **Nicole Encila**
 
-You can use the [editor on GitHub](https://github.com/nicxiedust/nicxiedust.github.io-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone! Here are some K-Drama's I've already watched. I hope you will enjoy this website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### It's Okay Not to Be Okay
 
-### Markdown
+![Kim Soo Hyun and Seo Ye Ji Smolders in Intimate Back Hug Moment in Official Posters for tvN Drama It’s Okay to Not be Okay](https://user-images.githubusercontent.com/102642128/161387130-c62a5822-8a18-4aa4-a3f8-6c9fbad6d53f.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Trailer
 
-```markdown
-Syntax highlighted code block
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1H__LNPCc80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Description**
 
-1. Numbered
-2. List
+A story about a man employed in a psychiatric ward and a woman, with an antisocial personality disorder, who is a popular writer of children's books.
 
-**Bold** and _Italic_ and `Code` text
+source: asianwiki
+
+
 
 [Link](url) and ![Image](src)
 ```
