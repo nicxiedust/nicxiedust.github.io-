@@ -143,11 +143,55 @@ source: Netflix
 
 **Trailer**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BemKyzbLDDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Description**
+
+Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.
+
+source: Netflix
+
 ### A Love so Beautiful (Korean Version)
+
+![A Love So Beautiful - Poster (Drama, 2020, 아름다웠던 우리에게)](https://user-images.githubusercontent.com/102642128/161720294-58d49e9f-4de4-4f02-8ba1-019ed8d2c270.jpg)
+
+**Trailer**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0NiSVkyqfPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Description**
+
+Love is as tough as it is sweet for a lovestruck teenager, whose relationship with her next-door neighbor transforms as they grow into adulthood.
+
+source: Netflix
 
 ### The Witch's Diner 
 
-### Weightlifting Fairy Kim Bok Jo
+![The witch's diner poster](https://user-images.githubusercontent.com/102642128/161721327-bd1328a2-7b51-4943-ad61-46bdac836895.jpg)
+
+**Trailer**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zZPbV4Kntog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Description**
+
+Jung Jin is an ordinary 28-year-old woman with a job and a boyfriend, but her boyfriend dumps her and she gets fired from her job. Jung Jin then decides to open a restaurant with her mother. The restaurant goes bankrupt. Her mother goes down to the country and Jung Jin is left alone at the restaurant. At that time, Jo Hee-Ra (Song Ji-Hyo) appears in front of her. Jo Hee-Ra is a witch and she wants to borrow Jung Jin's restaurant to open her own restaurant. Jo Hee-Ra's restaurant would make food that grants a customer's wish. In exchange for granting their wish, the customers would give Jo Hee-Ra something that she wants from them. Jung Jin is skeptical at first, but she has an incredible experience from eating Jo Hee-Ra's food. Jung Jin soon works with Jo Hee-Ra and the restaurant becomes popular.
+
+source: asianwiki
+
+### Weightlifting Fairy Kim Bok Joo
+
+![Weightlifting Fairy Kim Bok Joo](https://user-images.githubusercontent.com/102642128/161722450-741a148d-1115-4de4-b742-ab3ef58b7a15.jpg)
+
+**Trailer**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6t5dLenA85Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Description**
+
+A rising weight lifting star crosses paths with a childhood friend, a competitive swimmer, and realizes that she has a secret crush on his cousin.
+
+source: Netflix
 
 
 
